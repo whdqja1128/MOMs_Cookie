@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="info">
+    <ThresholdFilter level="INFO"/>
+    <Appenders>
+        <RollingFile name="DEBUGFILE" fileName="C:/9조_김지원_임소연_자동환기시스템/1.코드/stm32/nucleo_f411re_uart2_printf_uart6_bt_clcd_dht11/.metadata/.ide.log" filePattern="C:/9조_김지원_임소연_자동환기시스템/1.코드/stm32/nucleo_f411re_uart2_printf_uart6_bt_clcd_dht11/.metadata/.ide.log-%d{yyyy-MM-dd}.log">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss,SSS} [%p] %c{1}:%L - %m%n" />
+            <Policies>
+                <TimeBasedTriggeringPolicy interval="1" modulate="true" />
+                <SizeBasedTriggeringPolicy size="50MB"/>
+            </Policies>
+        </RollingFile>
+    </Appenders>
+    <Loggers>
+        <Root level="ALL">
+            <AppenderRef ref="DEBUGFILE" />
+        </Root>
+    </Loggers>
+</Configuration>

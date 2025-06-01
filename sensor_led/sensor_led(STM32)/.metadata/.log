@@ -1,0 +1,95 @@
+!SESSION 2025-03-13 19:40:27.688 -----------------------------------------------
+eclipse.buildId=Version 1.17.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-03-13 19:40:48.474
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-03-13 19:40:48.475
+!MESSAGE Log4j2 initialized with config file C:\9조_김지원_임소연_자동환기시스템\1.코드\stm32\nucleo_f411re_uart2_printf_uart6_bt_clcd_dht11\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-03-13 19:40:56.218
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2025-03-13 19:44:20.079 -----------------------------------------------
+eclipse.buildId=Version 1.17.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  C:\9조_김지원_임소연_자동환기시스템\1.코드\stm32\nucleo_f411re_uart2_printf_uart6_bt_clcd_dht11\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\9조_김지원_임소연_자동환기시스템\1.코드\stm32\nucleo_f411re_uart2_printf_uart6_bt_clcd_dht11\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-03-13 19:44:25.708
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-03-13 19:44:25.709
+!MESSAGE Log4j2 initialized with config file C:\9조_김지원_임소연_자동환기시스템\1.코드\stm32\nucleo_f411re_uart2_printf_uart6_bt_clcd_dht11\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-03-13 19:44:32.897
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2025-03-13 19:48:05.114 -----------------------------------------------
+eclipse.buildId=Version 1.17.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  C:\9조_김지원_임소연_자동환기시스템\1.코드\stm32\nucleo_f411re_uart2_printf_uart6_bt_clcd_dht11\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\9조_김지원_임소연_자동환기시스템\1.코드\stm32\nucleo_f411re_uart2_printf_uart6_bt_clcd_dht11\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-03-13 19:48:16.305
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-03-13 19:48:16.305
+!MESSAGE Log4j2 initialized with config file C:\9조_김지원_임소연_자동환기시스템\1.코드\stm32\nucleo_f411re_uart2_printf_uart6_bt_clcd_dht11\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-03-13 19:48:23.596
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2025-03-13 19:53:02.901 -----------------------------------------------
+eclipse.buildId=Version 1.17.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-03-13 19:53:06.657
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-03-13 19:53:06.658
+!MESSAGE Log4j2 initialized with config file C:\9조_김지원_임소연_자동환기시스템\1.코드\stm32\nucleo_f411re_uart2_printf_uart6_bt_clcd_dht11\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-03-13 19:53:14.058
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2025-03-13 20:02:33.909 -----------------------------------------------
+eclipse.buildId=Version 1.17.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-03-13 20:02:37.714
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-03-13 20:02:37.715
+!MESSAGE Log4j2 initialized with config file C:\9조_김지원_임소연_자동환기시스템\1.코드\stm32\nucleo_f411re_uart2_printf_uart6_bt_clcd_dht11\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-03-13 20:02:45.059
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2025-03-14 07:46:40.681 -----------------------------------------------
+eclipse.buildId=Version 1.17.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-03-14 07:46:46.487
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-03-14 07:46:46.497
+!MESSAGE Log4j2 initialized with config file C:\9조_김지원_임소연_자동환기시스템\1.코드\stm32\nucleo_f411re_uart2_printf_uart6_bt_clcd_dht11\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-03-14 07:46:54.390
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-03-14 07:48:36.061
+!MESSAGE Indexed 'mini_bt_dht' (32 sources, 137 headers) in 3.6 sec: 14,823 declarations; 81,783 references; 1 unresolved inclusions; 92 syntax errors; 240 unresolved names (0.25%)
