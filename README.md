@@ -49,6 +49,15 @@
 
 ---
 
+## 🧱 시스템 아키텍쳐
+
+<img width="1125" height="1304" alt="image" src="https://github.com/user-attachments/assets/73a92f2b-d242-4762-a6df-c0ea255d4cbf" />
+
+---
+
+
+---
+
 ## 🧱 시스템 구성도
 
 ```
